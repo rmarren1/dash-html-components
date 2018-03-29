@@ -13,3 +13,4 @@ venv/
 lib/bundle.js
 lib/bundle.js.map
 .idea
+.tox/

@@ -61,26 +61,37 @@ class Tests(IntegrationTests):
         app = dash.Dash()
         app.layout = html.Div([
             html.Div(id='container'),
-            html.Button('Click', id='button', n_clicks=0)
+            html.Button('Click', id='button', n_clicks=0, n_clicks_previous=0)
         ])
 
-        @app.callback(Output('container', 'children'), [Input('button', 'n_clicks')])
-        def update_output(n_clicks):
+        output_string = "You have clicked the button {} times." + \
+                        "Previously, you have clicked the button {} times."
+
+        @app.callback(Output('container', 'children'),
+                      [Input('button', 'n_clicks')],
+                      [State('button', 'n_clicks_previous')])
+        def update_output(n_clicks, n_clicks_previous):
             call_count.value += 1
-            return 'You have clicked the button {} times'.format(n_clicks)
+            return output_string.format(n_clicks, n_clicks_previous)
 
         self.startServer(app)
 
         self.wait_for_element_by_css_selector('#container')
 
         self.wait_for_text_to_equal(
-            '#container', 'You have clicked the button 0 times')
+            '#container', output_string.format(0, 0))
         self.assertEqual(call_count.value, 1)
         self.snapshot('button initialization')
 
         self.driver.find_element_by_css_selector('#button').click()
 
         self.wait_for_text_to_equal(
-            '#container', 'You have clicked the button 1 times')
+            '#container', output_string.format(1, 0))
         self.assertEqual(call_count.value, 2)
+        self.driver.find_element_by_css_selector('#button').click()
+        self.snapshot('button click one')
+
+        self.wait_for_text_to_equal(
+            '#container', output_string.format(2, 1))
+        self.assertEqual(call_count.value, 3)
         self.snapshot('button click')
