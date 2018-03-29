@@ -60,6 +60,12 @@ function generatePropTypes(element, attributes) {
     'n_clicks': PropTypes.integer,
 
     /**
+     * An integer that represents the number of times
+     * that this element has been clicked on prior to a click event.
+     */
+    'n_clicks_previous': PropTypes.integer,
+
+    /**
      * A unique identifier for the component, used to improve
      * performance by React.js while rendering components
      * See https://reactjs.org/docs/lists-and-keys.html for more info
@@ -104,6 +110,7 @@ const ${Component} = (props) => {
                 onClick={() => {
                     if (props.setProps) props.setProps({n_clicks: props.n_clicks + 1});
                     if (props.fireEvent) props.fireEvent({event: 'click'});
+                    if (props.setProps) props.setProps({n_clicks_previous: props.n_clicks_previous + 1});
                 }}
                 {...props}
             >
@@ -120,7 +127,8 @@ const ${Component} = (props) => {
 };
 
 ${Component}.defaultProps = {
-    n_clicks: 0
+    n_clicks: 0,
+    n_clicks_previous: 0
 };
 
 ${Component}.propTypes = {${propTypes}
