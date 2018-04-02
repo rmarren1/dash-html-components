@@ -18,6 +18,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -223,6 +230,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -378,6 +392,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -535,6 +556,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -690,6 +718,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -910,6 +945,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1066,6 +1108,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1221,6 +1270,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -1427,6 +1483,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1582,6 +1645,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -1753,6 +1823,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1908,6 +1985,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -2065,6 +2149,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2220,6 +2311,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -2377,6 +2475,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2532,6 +2637,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -2696,6 +2808,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2851,6 +2970,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -3057,6 +3183,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3227,6 +3360,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3382,6 +3522,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -3539,6 +3686,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3695,6 +3849,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3850,6 +4011,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -4014,6 +4182,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4176,6 +4351,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -4368,6 +4550,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4523,6 +4712,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -4680,6 +4876,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4836,6 +5039,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4991,6 +5201,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -5162,6 +5379,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5325,6 +5549,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5480,6 +5711,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -5637,6 +5875,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5792,6 +6037,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -5949,6 +6201,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6104,6 +6363,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -6261,6 +6527,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6416,6 +6689,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -6601,6 +6881,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6778,6 +7065,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6933,6 +7227,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -7090,6 +7391,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7246,6 +7554,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7401,6 +7716,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -7621,6 +7943,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7776,6 +8105,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -7933,6 +8269,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8088,6 +8431,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -8245,6 +8595,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8400,6 +8757,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -8557,6 +8921,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8712,6 +9083,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -8869,6 +9247,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9024,6 +9409,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -9181,6 +9573,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9337,6 +9736,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9492,6 +9898,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -9697,6 +10110,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -9910,6 +10330,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10080,6 +10507,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10236,6 +10670,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10391,6 +10832,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -10590,6 +11038,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10760,6 +11215,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10915,6 +11377,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -11078,6 +11547,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -11284,6 +11760,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11440,6 +11923,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11595,6 +12085,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -11759,6 +12256,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11914,6 +12418,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -12077,6 +12588,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -12261,6 +12779,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -12467,6 +12992,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -12622,6 +13154,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -12779,6 +13318,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -12934,6 +13480,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -13091,6 +13644,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13246,6 +13806,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -13445,6 +14012,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13615,6 +14189,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13777,6 +14358,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -13955,6 +14543,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14132,6 +14727,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14287,6 +14889,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -14458,6 +15067,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14613,6 +15229,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -14770,6 +15393,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14925,6 +15555,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -15103,6 +15740,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15266,6 +15910,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15421,6 +16072,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -15578,6 +16236,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15733,6 +16398,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -15890,6 +16562,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16046,6 +16725,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16201,6 +16887,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -16407,6 +17100,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16562,6 +17262,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -16768,6 +17475,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16923,6 +17637,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -17080,6 +17801,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17235,6 +17963,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -17420,6 +18155,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17575,6 +18317,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -17732,6 +18481,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17887,6 +18643,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -18044,6 +18807,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18199,6 +18969,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -18356,6 +19133,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18511,6 +19295,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -18675,6 +19466,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18830,6 +19628,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -19008,6 +19813,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19163,6 +19975,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -19404,6 +20223,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19559,6 +20385,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -19744,6 +20577,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19899,6 +20739,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -20063,6 +20910,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20219,6 +21073,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20374,6 +21235,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -20566,6 +21434,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20721,6 +21596,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -20878,6 +21760,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21033,6 +21922,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -21260,6 +22156,13 @@
         "required": false,
         "description": "The children of this component"
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
+      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21415,6 +22318,13 @@
         },
         "required": false,
         "description": "The children of this component"
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {

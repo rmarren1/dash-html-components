@@ -44,6 +44,11 @@ Footer.propTypes = {
     'children': PropTypes.node,
 
     /**
+     * A wild-card data-* attribute
+     */
+    'data-*': PropTypes.string,
+
+    /**
      * An integer that represents the number of times
      * that this element has been clicked on.
      */
