@@ -44,11 +44,6 @@ Ins.propTypes = {
     'children': PropTypes.node,
 
     /**
-     * A wild-card data-* attribute
-     */
-    'data-*': PropTypes.string,
-
-    /**
      * An integer that represents the number of times
      * that this element has been clicked on.
      */
@@ -97,6 +92,11 @@ Ins.propTypes = {
      * Defines the ID of a <menu> element which will serve as the element's context menu.
      */
     'contextMenu': PropTypes.string,
+
+    /**
+     * Lets you attach custom attributes to an HTML element.
+     */
+    'data-*': PropTypes.string,
 
     /**
      * Defines the text direction. Allowed values are ltr (Left-To-Right) or rtl (Right-To-Left)

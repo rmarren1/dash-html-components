@@ -153,6 +153,12 @@
             ],
             "description": "How the element handles cross-origin requests"
         },
+        "data-*": {
+            "elements": [
+                "Globalattribute"
+            ],
+            "description": "Lets you attach custom attributes to an HTML element."
+        },
         "dateTime": {
             "elements": [
                 "del",
@@ -776,6 +782,7 @@
             "className",
             "contentEditable",
             "contextMenu",
+            "data-*",
             "dir",
             "draggable",
             "hidden",

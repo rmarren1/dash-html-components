@@ -16,7 +16,7 @@ const supportedAttributes = ['accept', 'accessKey', 'action',
 'allowFullScreen', 'allowTransparency', 'alt', 'async', 'autoComplete',
 'autoFocus', 'autoPlay', 'capture', 'cellPadding', 'cellSpacing', 'challenge',
 'charSet', 'checked', 'cite', 'classID', 'colSpan', 'cols', 'content',
-'contentEditable', 'contextMenu', 'controls', 'coords', 'crossOrigin',
+'contentEditable', 'contextMenu', 'controls', 'coords', 'crossOrigin', 'data-*',
 'dateTime', 'default', 'defer', 'dir', 'disabled', 'download', 'draggable',
 'encType', 'form', 'formAction', 'formEncType', 'formMethod', 'formNoValidate',
 'formTarget', 'frameBorder', 'headers', 'height', 'hidden', 'high', 'href',
@@ -36,7 +36,6 @@ const supportedAttributes = ['accept', 'accessKey', 'action',
 const attributeMap = supportedAttributes.reduce((map, reactAttribute) => {
     const htmlAttribute = reactAttribute.toLowerCase();
     map[htmlAttribute] = reactAttribute;
-
     return map;
 },
     // Start the map with two attributes that have special names in React, and
@@ -70,17 +69,23 @@ function extractAttributes($) {
             // Fix irregular whitespace characters
             .replace(' ', ' ')
             .trim();
+        let htmlAttribute = attribute
 
-        const htmlAttribute = S(attribute)
-            .trim()
-            // Convert e.g. `accept-charset` to `acceptCharset`
-            .camelize()
-            .toString();
+        if (attribute != 'data-*') {
+          htmlAttribute = S(attribute)
+              .trim()
+              // Convert e.g. `accept-charset` to `acceptCharset`
+              .camelize()
+              .toString();
+        }
 
         // Skip `data-*` attributes
-        if (htmlAttribute.indexOf('data') === 0) {
-            return true;
-        }
+        // if (htmlAttribute.indexOf('data') === 0) {
+        //     return true;
+        // }
+
+        console.log(htmlAttribute)
+        console.log(attributeMap[htmlAttribute])
 
         // Ensure attribute is supported by React
         if (!attributeMap[htmlAttribute]) {
@@ -96,7 +101,6 @@ function extractAttributes($) {
         };
 
     });
-
     return attributes;
 }
 

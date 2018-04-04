@@ -18,13 +18,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -133,6 +126,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -230,13 +230,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -295,6 +288,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -393,13 +393,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -458,6 +451,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -556,13 +556,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -621,6 +614,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -718,13 +718,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -848,6 +841,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -945,13 +945,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1010,6 +1003,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -1108,13 +1108,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1173,6 +1166,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -1270,13 +1270,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -1386,6 +1379,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -1483,13 +1483,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1548,6 +1541,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -1646,13 +1646,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1725,6 +1718,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -1823,13 +1823,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -1888,6 +1881,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -1986,13 +1986,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2051,6 +2044,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -2149,13 +2149,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2214,6 +2207,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -2312,13 +2312,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2377,6 +2370,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -2475,13 +2475,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2540,6 +2533,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -2638,13 +2638,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2710,6 +2703,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -2808,13 +2808,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -2873,6 +2866,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -2970,13 +2970,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -3086,6 +3079,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -3183,13 +3183,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3262,6 +3255,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -3360,13 +3360,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3425,6 +3418,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -3523,13 +3523,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3588,6 +3581,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -3686,13 +3686,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3751,6 +3744,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -3849,13 +3849,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -3914,6 +3907,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -4012,13 +4012,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4084,6 +4077,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -4182,13 +4182,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4254,6 +4247,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -4352,13 +4352,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4452,6 +4445,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -4550,13 +4550,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4615,6 +4608,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -4713,13 +4713,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4778,6 +4771,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -4876,13 +4876,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -4941,6 +4934,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -5039,13 +5039,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5104,6 +5097,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -5202,13 +5202,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5281,6 +5274,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -5379,13 +5379,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5451,6 +5444,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -5549,13 +5549,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5614,6 +5607,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -5712,13 +5712,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5777,6 +5770,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -5875,13 +5875,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -5940,6 +5933,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -6038,13 +6038,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6103,6 +6096,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -6201,13 +6201,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6266,6 +6259,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -6364,13 +6364,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6429,6 +6422,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -6527,13 +6527,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6592,6 +6585,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -6690,13 +6690,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6783,6 +6776,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -6881,13 +6881,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -6967,6 +6960,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -7065,13 +7065,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7130,6 +7123,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -7228,13 +7228,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7293,6 +7286,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -7391,13 +7391,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7456,6 +7449,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -7554,13 +7554,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -7619,6 +7612,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -7716,13 +7716,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -7846,6 +7839,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -7943,13 +7943,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8008,6 +8001,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -8106,13 +8106,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8171,6 +8164,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -8269,13 +8269,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8334,6 +8327,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -8432,13 +8432,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8497,6 +8490,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -8595,13 +8595,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8660,6 +8653,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -8758,13 +8758,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8823,6 +8816,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -8921,13 +8921,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -8986,6 +8979,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -9084,13 +9084,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9149,6 +9142,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -9247,13 +9247,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9312,6 +9305,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -9410,13 +9410,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9475,6 +9468,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -9573,13 +9573,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9638,6 +9631,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -9736,13 +9736,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -9801,6 +9794,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -9898,13 +9898,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -10014,6 +10007,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -10110,13 +10110,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -10233,6 +10226,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -10330,13 +10330,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10409,6 +10402,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -10507,13 +10507,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10572,6 +10565,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -10670,13 +10670,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -10735,6 +10728,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -10832,13 +10832,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -10941,6 +10934,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -11038,13 +11038,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11117,6 +11110,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -11215,13 +11215,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11280,6 +11273,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -11378,13 +11378,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11450,6 +11443,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -11547,13 +11547,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -11663,6 +11656,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -11760,13 +11760,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11825,6 +11818,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -11923,13 +11923,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -11988,6 +11981,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -12086,13 +12086,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -12158,6 +12151,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -12256,13 +12256,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -12321,6 +12314,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -12419,13 +12419,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -12491,6 +12484,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -12589,13 +12589,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -12682,6 +12675,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -12779,13 +12779,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -12895,6 +12888,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -12992,13 +12992,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13057,6 +13050,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -13155,13 +13155,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13220,6 +13213,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -13318,13 +13318,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13383,6 +13376,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -13481,13 +13481,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13546,6 +13539,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -13644,13 +13644,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -13709,6 +13702,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -13806,13 +13806,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -13915,6 +13908,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -14012,13 +14012,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14091,6 +14084,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -14189,13 +14189,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14261,6 +14254,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -14359,13 +14359,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14445,6 +14438,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -14543,13 +14543,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14629,6 +14622,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -14727,13 +14727,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14792,6 +14785,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -14890,13 +14890,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -14969,6 +14962,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -15067,13 +15067,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15132,6 +15125,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -15230,13 +15230,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15295,6 +15288,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -15393,13 +15393,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15458,6 +15451,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -15556,13 +15556,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15642,6 +15635,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -15740,13 +15740,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15812,6 +15805,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -15910,13 +15910,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -15975,6 +15968,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -16073,13 +16073,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16138,6 +16131,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -16236,13 +16236,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16301,6 +16294,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -16399,13 +16399,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16464,6 +16457,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -16562,13 +16562,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16627,6 +16620,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -16725,13 +16725,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -16790,6 +16783,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -16887,13 +16887,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -17003,6 +16996,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -17100,13 +17100,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17165,6 +17158,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -17262,13 +17262,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -17378,6 +17371,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -17475,13 +17475,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17540,6 +17533,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -17638,13 +17638,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17703,6 +17696,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -17801,13 +17801,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -17866,6 +17859,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -17964,13 +17964,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18057,6 +18050,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -18155,13 +18155,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18220,6 +18213,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -18318,13 +18318,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18383,6 +18376,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -18481,13 +18481,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18546,6 +18539,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -18644,13 +18644,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18709,6 +18702,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -18807,13 +18807,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -18872,6 +18865,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -18970,13 +18970,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19035,6 +19028,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -19133,13 +19133,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19198,6 +19191,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -19296,13 +19296,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19368,6 +19361,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -19466,13 +19466,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19531,6 +19524,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -19629,13 +19629,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19715,6 +19708,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -19813,13 +19813,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -19878,6 +19871,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -19975,13 +19975,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -20126,6 +20119,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -20223,13 +20223,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20288,6 +20281,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -20386,13 +20386,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20479,6 +20472,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -20577,13 +20577,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20642,6 +20635,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -20740,13 +20740,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20812,6 +20805,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -20910,13 +20910,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -20975,6 +20968,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -21073,13 +21073,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21138,6 +21131,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -21236,13 +21236,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21336,6 +21329,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -21434,13 +21434,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21499,6 +21492,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -21597,13 +21597,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21662,6 +21655,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -21760,13 +21760,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -21825,6 +21818,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -21922,13 +21922,6 @@
         },
         "required": false,
         "description": "The children of this component"
-      },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
       },
       "n_clicks": {
         "type": {
@@ -22059,6 +22052,13 @@
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
       },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
+      },
       "dir": {
         "type": {
           "name": "string"
@@ -22156,13 +22156,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -22221,6 +22214,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
@@ -22319,13 +22319,6 @@
         "required": false,
         "description": "The children of this component"
       },
-      "data-*": {
-        "type": {
-          "name": "string"
-        },
-        "required": false,
-        "description": "A wild-card data-* attribute"
-      },
       "n_clicks": {
         "type": {
           "name": "custom",
@@ -22384,6 +22377,13 @@
         },
         "required": false,
         "description": "Defines the ID of a <menu> element which will serve as the element's context menu."
+      },
+      "data-*": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lets you attach custom attributes to an HTML element."
       },
       "dir": {
         "type": {
