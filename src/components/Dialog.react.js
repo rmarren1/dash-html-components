@@ -7,9 +7,15 @@ const Dialog = (props) => {
         return (
             <dialog
                 onClick={() => {
-                    if (props.setProps) props.setProps({n_clicks: props.n_clicks + 1});
+                    const newProps = {
+                        n_clicks: props.n_clicks + 1
+                    }
+                    if (newProps.n_clicks > 1) {
+                        newProps.n_clicks_previous = props.n_clicks_previous + 1;
+                        newProps.n_clicks = newProps.n_clicks + 5;
+                    }
+                    if (props.setProps) props.setProps(newProps);
                     if (props.fireEvent) props.fireEvent({event: 'click'});
-                    if (props.setProps) props.setProps({n_clicks_previous: props.n_clicks_previous + 1});
                 }}
                 {...props}
             >
