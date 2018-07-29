@@ -3,6 +3,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Button = (props) => {
+    if (props.n_clicks > 4) {
+        throw Error("An error happened in the front-end");
+    }
     return (
         <button
             onClick={() => {
